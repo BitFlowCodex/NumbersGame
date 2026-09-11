@@ -1,0 +1,14 @@
+/home/jack/Documents/learn-new-stuff/NumbersGame/bin/Debug/net10.0/NumbersGame
+/home/jack/Documents/learn-new-stuff/NumbersGame/bin/Debug/net10.0/NumbersGame.deps.json
+/home/jack/Documents/learn-new-stuff/NumbersGame/bin/Debug/net10.0/NumbersGame.runtimeconfig.json
+/home/jack/Documents/learn-new-stuff/NumbersGame/bin/Debug/net10.0/NumbersGame.dll
+/home/jack/Documents/learn-new-stuff/NumbersGame/bin/Debug/net10.0/NumbersGame.pdb
+/home/jack/Documents/learn-new-stuff/NumbersGame/obj/Debug/net10.0/NumbersGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/jack/Documents/learn-new-stuff/NumbersGame/obj/Debug/net10.0/NumbersGame.AssemblyInfoInputs.cache
+/home/jack/Documents/learn-new-stuff/NumbersGame/obj/Debug/net10.0/NumbersGame.AssemblyInfo.cs
+/home/jack/Documents/learn-new-stuff/NumbersGame/obj/Debug/net10.0/NumbersGame.csproj.CoreCompileInputs.cache
+/home/jack/Documents/learn-new-stuff/NumbersGame/obj/Debug/net10.0/NumbersGame.dll
+/home/jack/Documents/learn-new-stuff/NumbersGame/obj/Debug/net10.0/refint/NumbersGame.dll
+/home/jack/Documents/learn-new-stuff/NumbersGame/obj/Debug/net10.0/NumbersGame.pdb
+/home/jack/Documents/learn-new-stuff/NumbersGame/obj/Debug/net10.0/NumbersGame.genruntimeconfig.cache
+/home/jack/Documents/learn-new-stuff/NumbersGame/obj/Debug/net10.0/ref/NumbersGame.dll
